@@ -1,0 +1,12 @@
+P1:4
+P2:4
+P3:5
+P4:3
+Nota:16
+
+P1
+Faltan escenarios alternativos
+P2
+Falta la entidad de Inscripción y su Estado.
+P4
+Demasiado simples. Debe analizar más clases controladoras que podrían suceder en cada CU.
